@@ -1,0 +1,6 @@
+print('Enter string')
+user_string=input()
+user_list=list(user_string)
+user_list.reverse()
+reverseString=''.join(user_list)
+print(f'Reverse string is {reverseString}')

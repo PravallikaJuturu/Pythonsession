@@ -1,0 +1,103 @@
+Miscellaneous
+-------------
+
+Write a Python program to calculate number of days between two dates.
+
+Write a Python program to check whether a specified value is contained in a group of values.
+
+Write a Python program to sum of three given integers. However, if two values are equal sum will be zero.
+
+Write a Python program to solve (x + y) * (x + y)
+
+Write a Python program to parse a string to Float or Integer.
+
+Write a Python program to convert height (in feet and inches) to centimeters.
+
+Write a Python program to convert all units of time into seconds.
+
+Write a Python program to calculate the sum of the digits in an integer.
+
+Write a Python program to sort three integers without using conditional statements and loops - use min() max()
+
+
+String
+------
+
+Write a Python program that accepts a word from the user and reverse it. Hint: Use split() and list reverse()
+
+Write a Python program that accepts a string and calculate the number of digits and letters. Hint: use split(), isdigit()
+
+Write a Python program to check the validity of password input by users.
+Validation :
+	At least 1 letter between [a-z] and 1 letter between [A-Z].
+	At least 1 number between [0-9].
+	At least 1 character from [$#@].
+	Minimum length 6 characters.
+	Maximum length 16 characters.
+
+
+Write a Python program to validate a IP address.
+ex. 128.220.80.12 - valid
+	128.450.213.900 - invalid
+
+
+
+Conditionals
+------------
+
+Write a Python program to convert month name to a number of days.
+Expected Output:
+	List of months: January, February, March, April, May, June, July, August
+	, September, October, November, December                                
+	Input the name of Month: February                                       
+	No. of days: 28/29 days 
+
+
+List
+----
+
+Write a Python program to check a list is empty or not.
+
+Write a Python program to clone or copy a list.
+
+Write a Python program to get the smallest number from a list.
+
+Write a Python program access the index of a list.
+
+
+Write a Python program to input a number, if it is not a number generate an error message.
+
+Write a Python program to remove the first item from a specified list
+
+Write a Python program to remove the last item from a specified list
+
+Write a Python program to remove the middle item from a specified list
+
+Write a Python program to find the index of an item in a specified list.
+
+Write a Python program to find the second largest number in a list. Without using loop. Hint: use max and replace
+
+Write a Python program to check whether a list contains a sublist.
+
+
+Dictionary
+----------
+
+Write a Python script to concatenate following dictionaries to create a new one.
+	Sample Dictionary : 
+	dic1={1:10, 2:20} 
+	dic2={3:30, 4:40} 
+	dic3={5:50,6:60}
+	Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+
+ Write a Python script to check if a given key already exists in a dictionary.
+
+ Write a Python program to sum all the values in a dictionary. Hint: Can be solved without loops. Use sum()
+
+ Write a Python program to remove a key from a dictionary.
+
+ Write a Python program to get the maximum and minimum value in a dictionary. Hint: use sort()
+
+ Write a Python program to check a dictionary is empty or not.
+
+ Write a Python program to find the highest 3 values in a dictionary.

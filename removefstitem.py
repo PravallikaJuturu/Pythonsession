@@ -1,0 +1,20 @@
+print('enter list items')
+myList=input()
+myList=myList.split(' ')
+myList_first=myList.copy()
+print(f'My list is {myList}')
+
+index=myList_first.index(myList_first[0])
+myList_first.pop(index)
+print(f'Modified list is {myList_first}')
+
+secondlist=myList.copy()
+index=secondlist.index(secondlist[-1])
+secondlist.pop(index)
+print(f'Modified list is {secondlist}')
+
+thirdlist=myList.copy()
+midIndex=int(len(thirdlist)/2)
+index=thirdlist.index(thirdlist[midIndex])
+thirdlist.pop(index)
+print(f'Modified list is {thirdlist}')
